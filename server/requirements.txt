@@ -1,0 +1,7 @@
+flask
+flask-cors
+requests
+python-dotenv
+validators
+python-owasp-zap-v2.4
+google-generativeai
